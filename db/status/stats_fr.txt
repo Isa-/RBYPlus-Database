@@ -1,0 +1,8 @@
+﻿PV
+Attaque
+Défense
+Atk. Spé.
+Déf. Spé.
+Vitesse
+Précision
+Esquive

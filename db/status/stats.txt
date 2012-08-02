@@ -1,0 +1,8 @@
+HP
+Attack
+Defense
+Sp. Att.
+Sp. Def.
+Speed
+Accuracy
+Evasion

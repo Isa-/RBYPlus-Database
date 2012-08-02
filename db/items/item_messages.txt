@@ -1,0 +1,42 @@
+(No Item)
+
+
+%s restored its stats using White Herb!
+%s hung on thanks to its Focus Band!
+%s hung on using its Focus Sash!
+
+%s used its Mental Herb to come back to his senses!
+
+
+
+%s used its power herb to attack immediately!
+%s restored a little HP using its Leftovers!
+
+
+
+%s restored a little HP using its Black Sludge!|%s was hurt by Black Sludge!
+%s's Quick Claw activated!
+%s restored a little HP using its Berry Juice!
+%s's Flame Orb activated!|%s's Toxic Orb activated!
+
+%s is hurt by its Life Orb!
+
+
+%s's shell bell restored its HP a little!
+
+
+
+
+%s is hurt by its Sticky Barb!
+
+
+
+
+%f is hurt by %s's Rocky Helmet!
+%s's Air Balloon popped!|%s is floating on a balloon!
+%s's %i raised its %st!
+%s's %i raised %m's power!
+%s used its Red Card on %f!
+%s used its Eject Button!
+%s's Berserk Gene activated!|%s's Attack went way up!
+%s's Destiny Knot activated, %f is in love!
