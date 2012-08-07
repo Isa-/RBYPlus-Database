@@ -1,0 +1,26 @@
+﻿0 2 2 2 2 2 1 2 0 1 2 2 2 2 2 2 2 2 2 NORMAL
+1 4 2 1 1 2 4 1 0 4 2 2 2 2 1 4 2 4 2 FIGHTING
+2 2 4 2 2 2 1 4 2 1 2 2 4 1 2 2 2 2 2 FLYING
+3 2 2 2 1 1 1 4 1 0 2 2 4 2 2 2 2 2 2 POISON
+4 2 2 0 4 2 4 1 2 4 4 2 1 4 2 2 2 2 2 GROUND
+5 2 1 4 2 1 2 4 2 1 4 2 2 2 2 4 2 2 2 ROCK
+6 2 1 1 4 2 2 2 2 1 1 2 4 2 4 2 2 4 2 BUG
+7 0 2 2 2 2 2 2 4 1 2 2 2 2 2 2 2 1 2 GHOST
+8 2 2 2 2 2 4 2 2 1 1 1 2 1 2 4 2 2 2 STEEL
+9 2 2 2 2 2 1 4 2 4 1 1 4 2 2 4 1 2 2 FIRE
+10 2 2 2 2 4 4 2 2 2 4 1 1 2 2 2 1 2 2 WATER
+11 2 2 1 1 4 4 1 2 1 1 4 1 2 2 2 1 2 2 GRASS
+12 2 2 4 2 0 2 2 2 2 2 4 1 1 2 2 1 2 2 ELECTRIC
+13 2 4 2 4 2 2 2 2 1 2 2 2 2 1 2 2 0 2 PSYCHIC
+14 2 2 4 2 4 2 2 2 1 2 1 4 2 2 1 4 2 2 ICE
+15 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 4 2 2 DRAGON
+16 2 1 2 2 2 2 2 4 1 2 2 2 2 4 2 2 1 2 DARK
+17 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ???
+   N F F P G R B G S F W G E P I D D ?
+   O I L O R O U H T I A R L S C R A ?
+   R G Y I O C G O E R T A E Y E A R ?
+   M H I S U K	 S E E E S C C	 G K ?
+   A T N O N	 T L   R S T H	 O
+   L I G N D			   R I	 N
+     N					   I C
+	 G					   C
