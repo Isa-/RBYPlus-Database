@@ -1,0 +1,44 @@
+category.txt
+
+0 - No Effect
+1 - Status Inflictment, primary (+LSeed/Confusion)
+2 - Stat boost/drop, primary
+3 - HP recovery
+4 - Status Inflictment, secondary
+5 - ???, unused
+6 - Stat boost/drop, secondary
+7 - ???, unused
+8 - HP drain
+9 - OHKO
+10 - Haze
+11 - Reflect/LScreen
+12 - Roar/Whirlwind
+13 - Other effects (Disable, Substitute, Mirror Move...)
+
+---
+
+caused_effect.txt (triggered by category.txt numbers 1/4/13)
+
+TABLE OF EFFECTS
+0: Nothing
+1: Paralysis
+2: Sleep
+3: Freeze
+4: Burn
+5: Poison/Badly poison
+6: Confusion
+7: Attract
+8: Wrap
+9: Curse (HP drain)
+10: ???
+11: ???
+12: Torment
+13: Disable
+14: Yawn
+15: Heal Block
+16: ???
+17: Foresight/Odor Sleught - Reset Evasion
+18: Leech Seed
+19: Embargo - No Item Usage
+20: Perish Song
+21: Ingrain - Prevents own switching
