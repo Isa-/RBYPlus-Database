@@ -1,561 +1,166 @@
-#156 is free
-93#Pound
-#Karate Chop
-#DoubleSlap
-#Comet Punch
-1#Mega Punch
-#Pay Day
-#Fire Punch
-#Ice Punch
-#ThunderPunch
-#Scratch
-#Vicegrip
-#Guillotine
-#Razor Wind
-#Swords Dance
-#Cut
-#Gust
-#Wing Attack
-#Whirlwind
-13-3_16*2_239*2_327_87_542_479#Fly
-10#Bind
-#Slam
-#Vine Whip
-#Stomp
-#Double Kick
-1#Mega Kick
-#Jump Kick
-#Rolling Kick
-#Sand-Attack
-#Headbutt
-#Horn Attack
-#Fury Attack
-43#Horn Drill
-#Tackle
-#Body Slam
-10#Wrap
-#Take Down
-93#thrash
-#Double-Edge
-#Tail Whip
-#Poison Sting
-#Twineedle
-#Pin Missile
-#Leer
-#Bite
-#Growl
-#roar
-#Sing
-#Supersonic
-37#Sonicboom
-28#Disable
-#Acid
-#Ember
-#Flamethrower
-#mist
-#Water Gun
-#Hydro Pump
-#Surf
-#Ice Beam
-#Blizzard
-104-5#Psybeam
-11#BubbleBeam
-#Aurora Beam
-11#Hyper Beam
-#Peck
-#Drill Peck
-#Submission
-#Low kick
-22-1#Counter: 1 is physical
-91#Seismic Toss
-93#Strength
-#1#Leech Life
-#1#Mega Drain
-72#Leech Seed
-#Growth
-#Razor Leaf
-104-3#Solar Beam
-#PoisonPowder
-#Stun Spore
-#Sleep Powder
-93#Petal Dance
-#String Shot
-#Dragon Rage
-10#Fire Spin
-#ThunderShock
-#Thunderbolt
-#Thunder Wave
-#Thunder
-#Rock Throw
-#Earthquake
-43#Fissure
-13-1_89*2_222*2#Dig
-#Toxic
-#Confusion
-#Psychic
-#Hypnosis
-#Meditate
-#Agility
-#Quick Attack
-#rage
-13-4_16*2_239*2_327_87_542_479#Teleport - if failure, change 13-4 to 13-3
-91#Night Shade
-81#Mimic
-#Screech
-#Double Team
-60#Recover
-#Harden
-#Minimize
-#Smokescreen
-#Confuse Ray
-#Withdraw
-60#Defense Curl
-#Barrier
-73-2#light screen
-149#haze
-73-1#reflect
-104-4#focus energy
-9#bide
-80#metronome
-85#mirror move
-37#SelfDestruct
-#Egg Bomb
-#Lick
-37#Smog
-#Sludge
-#Bone Club
-#Fire Blast
-13-2_16*2_239*2_327_87_542_479#Waterfall - if failure, change 13-2 to 13-3
-10#Clamp
-#Swift
-104#skull bash
-#Spike Cannon
-#Constrict
-#Amnesia
-#Kinesis
-60#softboiled
-13-3_16*2_239*2_327_87_542_479#high jump kick
-#Glare
-31|1#dream eater
-43#Poison Gas
-37#Barrage
-1#Leech Life
-#Lovely Kiss
-104-1#sky attack
-137#transform
-#Bubble
-#Dizzy Punch
-#Spore
-#Flash
-#psywave
-93#Splash
-#Acid Armor
-#Crabhammer
-37#Explosion
-#Fury Swipes
-#Bonemerang
-106#Rest
-#Rock Slide
-#Hyper Fang
-#Sharpen
-19#Conversion
-72#Tri Attack
-130#Super Fang
-#Slash
-8-25|128#SUBSTITUTE
-#127#struggle
-111#sketch-------END OF RBY MOVES-------
-139#triple kick
-23#thief
-12#spider web.
-74#Mind reader
-31|92#nightmare
-153#flame wheel
-115#snore
-25#curse
-44#flail
-20#conversion2
-
-
-44#flail
-123#spite
-
-27#Protect
-
-
-
-
-8-50#belly drum
-
-
-
-121#spikes
-
-84-7#7 is ghost -- fore sight
-26#destiny bond
-95#perish song
-
-27#detect
-
-74#lock on
-93#outrage
-57-3#sandstorm
-#1#Giga drain
-35#endure
-
-66#rollout
-41#false swipe
-196#Swagger
-#60#healing - milk drink
-
-50#fury cutter
-
-12#mean look
-58#attract
-115|116#115 = works only if asleep, 116 is sleep talk
-3#heal bell
-49-0#return
-96#present
-49-1#frustration
-109#safeguard
-94#pain split
-153#sacred fire
-78#magnitude
-
-
-
-6#baton pass
-33#encore
-
-103#rapid spin
-
-
-
-
-87#morning sun
-87#synthesis
-87#moon light
-65#hidden power
-
-
-57-2#rain dance
-57-4#sunny day
-
-22-2#mirror coat
-97#psychup
-
-
-
-29#Future sight
-
-10#whirlpool
-7#beat up
-40#fake out
-141#uproar
-125#stock pile
-122#spit up
-131#swallow
-
-57-1#hail
-135#torment
-
-195#will-o-wisp
-37|165#memento
-39#facade
-47#focus punch
-117-1#smelling salt
-48#follow me
-90#nature power
-18#charge
-134#taunt
-63#helping hand
-132#trick
-108#role play
-142#wish
-4#assist
-151#ingrain
-
-76#magic coat
-105#recycle
-146#revenge
-14#brick break
-144#yawn
-70#knock off
-34#endeavor
-36#eruption
-112#skill swap
-67#imprison
-164#Refresh
-54#grudge
-118#snatch
-110#secret power
-13-2_57*2#dive
-
-17#camouflage
-
-
-
-
-
-
-88-12#mud sport
-66#ice ball
-
-#60#slack off
-
-
-
-11#blast burn -- one turn slacking off
-11#hydro cannon
-
-
-113#weather ball
-3#aromatherapy
-
-
-
-84-7#odor sleuth
-
-
-
-
-
-
-36#water spout
-
-
-
-
-10#sand tomb
-43#sheer cold
-
-
-
-
-
-12#block, aka mean look
-
-
-11#frenzy plant
-
-13-0_16*2_239*2_327_87_542_479#bounce
-
-
-23#covet
-
-
-88-9#water sport
-
-
-
-
-
-
-29#doom desire
-
-150#|60#roost
-53#gravity
-84-16#16 is dark -- miracle eye
-117-2#wake up slap
-
-56-0#gyro ball. 0 is to tell it's up to us to be slow
-61#healing wish
-15#brine
-89#natural gift
-42#only works when protect detect
-16#Pluck
-133#tailwind
-120#Acupressure
-119#metal burst
-140#U-turn
-
-145#payback
-5#assurance
-32#embargo
-45#fling
-98#psycho shift
-148#trump card
-59#heal block
-24#wring out
-62#power trick
-51#gastro acid
-75#lucky chant
-79#me first
-21#copycat
-55-1_3#power swap
-55-2_4#guard swap
-100#punishment
-71#last resort
-143-15#worry seed
-129#sucker punch
-136#toxic spikes
-55-1_2_3_4_5_6_7#heart swap -- reverses all stat with foe
-2#restore hp every turn
-68#magnet rise
-153#flareBlitz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#1#Drain punch
-
-
-
-
-
-132#switcheroo
-11#Giga impact
-
-
-146#avalanche
-
-
-
-
-
-
-
-
-#nothing but gotta fill the line
-
-
-
-77#defog
-138#trick room
-
-
-
-
-
-11#rock wrecker
-
-
-
-
-
-101#Captivate
-124#stealth rock
-52#grass knot
-147#chatter
-69#judgment
-16#like pluck
-
-
-
-
-
-60#heal order--healing
-
-
-11#roar of time
-
-61#Lunar dance
-24#crush grip
-10#magma storm
-
-
-
-13-4#shadow force
-
-169#Wide guard
-155-2_4#Guard Share
-155-1_3#Power Share
-168#Wonder Room
-
-117-5#Venom Shock
-
-48#Rage power
-174#Telekinesis
-156#Magic Room
-175#Strike Down
-
-189#Flame Burst
-
-
-167#HeavyBomber
-186#Synchro Noise
-182#Eleci Ball
-157#Soak
-
-
-
-
-187#Trickery
-143-86#Simple Beam
-158#Assemble Crew
-176#You First
-184#A Capella
-181#Echo Voice
-
-149#Clear Smog
-185#Assist Power
-170#Fast Guard
-190#Side Change
-
-159#Shell Crack
-
-117-0#Evil Eye
-13-5_16*2_239*2_327_87_542#Free Fall
-
-107#Overhead Throw
-160#Complete Burn
-177#Stall
-173#Acrobat
-172#Mirror Type
-188#Retaliation
-161#Desperation
-162#Gift Pass
-
-180#Water Oath
-178#Fire Oath
-179#Grass Oath
-140#Volt Change
-
-
-
-107#Dragon Tail
-
-
-
-
-
-
-
-
-
-167#Heat Stamp
-
-126#Heart roller
-
-
-
-
-152#Wind Storm
-
-
-
-183#Techno buster
-166#Ancient Song
-
-
-
-
-
-
-
-
-
-
-193#Cross Flame
-194#Cross Thunder
-#
+0 #156 is free
+1 93#Pound
+2 #Karate Chop
+3 #DoubleSlap
+4 #Comet Punch
+5 1#Mega Punch
+6 #Pay Day
+7 #Fire Punch
+8 #Ice Punch
+9 #ThunderPunch
+10 #Scratch
+11 #Vicegrip
+12 #Guillotine
+13 #Razor Wind
+14 #Swords Dance
+15 #Cut
+16 #Gust
+17 #Wing Attack
+18 #Whirlwind
+19 13-3_16*2_239*2_327_87_542_479#Fly
+20 10#Bind
+21 #Slam
+22 #Vine Whip
+23 #Stomp
+24 #Double Kick
+25 1#Mega Kick
+26 #Jump Kick
+27 #Rolling Kick
+28 #Sand-Attack
+29 #Headbutt
+30 #Horn Attack
+31 #Fury Attack
+32 43#Horn Drill
+33 #Tackle
+34 #Body Slam
+35 10#Wrap
+36 #Take Down
+37 93#thrash
+38 #Double-Edge
+39 #Tail Whip
+40 #Poison Sting
+41 #Twineedle
+42 #Pin Missile
+43 #Leer
+44 #Bite
+45 #Growl
+46 #roar
+47 #Sing
+48 #Supersonic
+49 37#Sonicboom
+50 28#Disable
+51 #Acid
+52 #Ember
+53 #Flamethrower
+54 #mist
+55 #Water Gun
+56 #Hydro Pump
+57 #Surf
+58 #Ice Beam
+59 #Blizzard
+60 104-5#Psybeam
+61 11#BubbleBeam
+62 #Aurora Beam
+63 11#Hyper Beam
+64 #Peck
+65 #Drill Peck
+66 #Submission
+67 #Low kick
+68 22-1#Counter: 1 is physical
+69 91#Seismic Toss
+70 93#Strength
+71 #1#Leech Life
+72 #1#Mega Drain
+73 72#Leech Seed
+74 #Growth
+75 #Razor Leaf
+76 104-3#Solar Beam
+77 #PoisonPowder
+78 #Stun Spore
+79 #Sleep Powder
+80 93#Petal Dance
+81 #String Shot
+82 #Dragon Rage
+83 10#Fire Spin
+84 #ThunderShock
+85 #Thunderbolt
+86 #Thunder Wave
+87 #Thunder
+88 #Rock Throw
+89 #Earthquake
+90 43#Fissure
+91 13-1_89*2_222*2#Dig
+92 #Toxic
+93 #Confusion
+94 #Psychic
+95 #Hypnosis
+96 #Meditate
+97 #Agility
+98 #Quick Attack
+99 #rage
+100 13-4_16*2_239*2_327_87_542_479#Teleport - if failure, change 13-4 to 13-3
+101 91#Night Shade
+102 81#Mimic
+103 #Screech
+104 #Double Team
+105 60#Recover
+106 #Harden
+107 #Minimize
+108 #Smokescreen
+109 #Confuse Ray
+110 #Withdraw
+111 60#Defense Curl
+112 #Barrier
+113 73-2#light screen
+114 149#haze
+115 73-1#reflect
+116 104-4#focus energy
+117 9#bide
+118 80#metronome
+119 85#mirror move
+120 37#SelfDestruct
+121 #Egg Bomb
+122 #Lick
+123 37#Smog
+124 #Sludge
+125 #Bone Club
+126 #Fire Blast
+127 13-2_16*2_239*2_327_87_542_479#Waterfall - if failure, change 13-2 to 13-3
+128 10#Clamp
+129 #Swift
+130 104#skull bash
+131 #Spike Cannon
+132 #Constrict
+133 #Amnesia
+134 #Kinesis
+135 60#softboiled
+136 13-3_16*2_239*2_327_87_542_479#high jump kick
+137 #Glare
+138 31|1#dream eater
+139 43#Poison Gas
+140 37#Barrage
+141 1#Leech Life
+142 #Lovely Kiss
+143 104-1#sky attack
+144 137#transform
+145 #Bubble
+146 #Dizzy Punch
+147 #Spore
+148 #Flash
+149 #psywave
+150 93#Splash
+151 #Acid Armor
+152 #Crabhammer
+153 37#Explosion
+154 #Fury Swipes
+155 #Bonemerang
+156 106#Rest
+157 #Rock Slide
+158 #Hyper Fang
+159 #Sharpen
+160 19#Conversion
+161 72#Tri Attack
+162 130#Super Fang
+163 #Slash
+164 8-25|128#SUBSTITUTE
+165 #127#struggle
