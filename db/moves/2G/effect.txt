@@ -1,560 +1,561 @@
-No effect
-Inflicts regular damage with no additional effect.
-Has an increased chance for a critical hit.
-Hits 2-5 times in one turn.
-Hits 2-5 times in one turn.
-Inflicts regular damage with no additional effect.
-Scatters money on the ground worth five times the user's level.
-Has a $effect_chance% chance to burn the target.
-Has a $effect_chance% chance to freeze the target.
-Has a $effect_chance% chance to paralyze the target.
-Inflicts regular damage with no additional effect.
-Inflicts regular damage with no additional effect.
-Causes a one-hit KO.
-Requires a turn to charge before attacking.
-Raises the user's Attack by two levels.
-Inflicts regular damage with no additional effect.
-Inflicts regular damage and can hit Bounce and Fly users.
-Inflicts regular damage with no additional effect.
-Immediately ends wild battles.  Forces trainers to switch Pok�mon.
-User flies high into the air, dodging all attacks, and hits next turn.
-Prevents the target from fleeing and inflicts damage for 2-5 turns.
-Inflicts regular damage with no additional effect.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to make the target flinch.
-Hits twice in one turn.
-Inflicts regular damage with no additional effect.
-If the user misses, it takes half the damage it would have inflicted in recoil.
-Has a $effect_chance% chance to make the target flinch.
-Lowers the target's Accuracy by one level.
-Has a $effect_chance% chance to make the target flinch.
-Inflicts regular damage with no additional effect.
-Hits 2-5 times in one turn.
-Causes a one-hit KO.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to paralyze the target.
-Prevents the target from fleeing and inflicts damage for 2-5 turns.
-User receives 1/4 the damage it inflicts in recoil.
-Hits every turn for 2-3 turns, then confuses the user.
-User receives 1/3 the damage inflicted in recoil.
-Lowers the target's Defense by one level.
-Has a $effect_chance% chance to poison the target.
-Hits twice in the same turn.  Has a $effect_chance% chance to poison the target.
-Hits 2-5 times in one turn.
-Lowers the target's Defense by one level.
-Has a $effect_chance% chance to make the target flinch.
-Lowers the target's Attack by one level.
-Immediately ends wild battles.  Forces trainers to switch Pok�mon.
-Puts the target to sleep.
-Confuses the target.
-Inflicts 20 points of damage.
-Disables the target's last used move for 1-8 turns.
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-Has a $effect_chance% chance to burn the target.
-Has a $effect_chance% chance to burn the target.
-Protects the user's stats from being changed by enemy moves.
-Inflicts regular damage with no additional effect.
-Inflicts regular damage with no additional effect.
-Inflicts regular damage and can hit Dive users.
-Has a $effect_chance% chance to freeze the target.
-Has a $effect_chance% chance to freeze the target.
-Has a $effect_chance% chance to confuse the target.
-Has a $effect_chance% chance to lower the target's Speed by one level.
-Has a $effect_chance% chance to lower the target's Attack by one level.
-User foregoes its next turn to recharge.
-Inflicts regular damage with no additional effect.
-Inflicts regular damage with no additional effect.
-User receives 1/4 the damage it inflicts in recoil.
-Inflicts more damage to heavier targets, with a maximum of 120 power.
-Inflicts twice the damage the user received from the last physical hit it took.
-Inflicts damage equal to the user's level.
-Inflicts regular damage with no additional effect.
-Heals the user by half the damage inflicted.
-Heals the user by half the damage inflicted.
-Seeds the target, stealing HP from it every turn.
-(((something new 316)))
-Has an increased chance for a critical hit.
-Requires a turn to charge before attacking.
-Poisons the target.
-Paralyzes the target.
-Puts the target to sleep.
-Hits every turn for 2-3 turns, then confuses the user.
-Lowers the target's Speed by one level.
-Inflicts 40 points of damage.
-Prevents the target from fleeing and inflicts damage for 2-5 turns.
-Has a $effect_chance% chance to paralyze the target.
-Has a $effect_chance% chance to paralyze the target.
-Paralyzes the target.
-Has a $effect_chance% chance to paralyze the target.
-Inflicts regular damage with no additional effect.
-Inflicts regular damage and can hit Dig users.
-Causes a one-hit KO.
-User digs underground, dodging all attacks, and hits next turn.
-Badly poisons the target, inflicting more damage every turn.
-Has a $effect_chance% chance to confuse the target.
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-Puts the target to sleep.
-Raises the user's Attack by one level.
-Raises the user's Speed by two levels.
-Inflicts regular damage with no additional effect.
-If the user is hit after using this move, its Attack rises by one level.
-Immediately ends wild battles.  No effect otherwise.
-Inflicts damage equal to the user's level.
-Copies the target's last used move.
-Lowers the target's Defense by two levels.
-Raises the user's Evasion by one level.
-Heals the user by half its max HP.
-Raises the user's Defense by one level.
-Raises the user's evasion.
-Lowers the target's Accuracy by one level.
-Confuses the target.
-Raises the user's Defense by one level.
-Raises user's Defense by one level.
-Raises the user's Defense by two levels.
-Reduces damage from special attacks by 50% for five turns..
-Resets all Pok�mon's stats, Accuracy, and Evasion.
-Reduces damage from physical attacks by half.
-Increases the user's chance to score a critical hit.
-User waits for 2-3 turns, then hits back for twice the damage it took.
-Randomly selects and uses any move in the game.
-Uses the target's last used move.
-Inflicts double damage.  User faints.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to paralyze the target.
-Has a $effect_chance% chance to poison the target.
-Has a $effect_chance% chance to poison the target.
-Has a $effect_chance% chance to make the target flinch.
-Has a $effect_chance% chance to burn the target.
-Has a $effect_chance% chance to make the target flinch.
-Prevents the target from fleeing and inflicts damage for 2-5 turns.
-Never misses.
-Raises the user's Defense by one level.  User charges for one turn before attacking.
-Hits 2-5 times in one turn.
-Has a $effect_chance% chance to lower the target's Speed by one level.
-Raises the user's Special Defense by two levels.
-Lowers the target's Accuracy by one level.
-Heals the user by half its max HP.
-If the user misses, it takes half the damage it would have inflicted in recoil.
-Paralyzes the target.
-Only works on sleeping Pok�mon.  Heals the user by half the damage inflicted.
-Poisons the target.
-Hits 2-5 times in one turn.
-Heals the user by half the damage inflicted.
-Puts the target to sleep.
-User charges for one turn before attacking.  Has a $effect_chance% chance to make the target flinch.
-User becomes a copy of the target until it leaves battle.
-Has a $effect_chance% chance to lower the target's Speed by one level.
-Has a $effect_chance% chance to confuse the target.
-Puts the target to sleep.
-Lowers the target's Accuracy by one level.
-Inflicts damage between 50% and 150% of the user's level.
-Does nothing.
-Raises the user's Defense by two levels.
-Has an increased chance for a critical hit.
-Inflicts double damage.  User faints.
-Hits 2-5 times in one turn.
-Hits twice in one turn.
-User sleeps for two turns, completely healing itself.
-Has a $effect_chance% chance to make the target flinch.
-Has a $effect_chance% chance to make the target flinch.
-Raises the user's Attack by one level.
-User's type changes to the type of one of its moves at random.
-Has a $effect_chance% chance to burn, freeze, or paralyze the target.
-Inflicts damage equal to half the target's HP.
-Has an increased chance for a critical hit.
-Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks.
-User takes 1/4 its max HP in recoil.
-Permanently becomes the target's last used move.
-Hits three times, increasing power by 100% with each successful hit.
-Takes the target's item.
-Prevents the target from leaving battle.
-Ensures that the user's next move will hit the target.
-Target loses 1/4 its max HP every turn as long as it's asleep.
-Has a $effect_chance% chance to burn the target.  Lets frozen Pok�mon thaw themselves.
-Has a $effect_chance% chance to make the target flinch.  Only works if the user is sleeping.
-Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.
-Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.
-Changes the user's type to a random type either resistant or immune to the last move used against it.
-Has an increased chance for a critical hit.
-Lowers the target's Speed by two levels.
-Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.
-Lowers the PP of the target's last used move by 4.
-Has a $effect_chance% chance to freeze the target.
-Prevents any moves from hitting the user this turn.
-Inflicts regular damage with no additional effect.
-Lowers the target's Speed by two levels.
-Never misses.
-Confuses the target.
-User pays half its max HP to max out its Attack.
-Has a $effect_chance% chance to poison the target.
-Has a $effect_chance% chance to lower the target's Accuracy by one level.
-Has a $effect_chance% chance to lower the target's Accuracy by one level.
-Scatters Spikes, hurting opposing Pok�mon that switch in.
-Has a $effect_chance% chance to paralyze the target.
-Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost.
-If the user faints this turn, the target automatically will, too.
-User and target both faint after three turns.
-Has a $effect_chance% chance to lower the target's Speed by one level.
-Prevents any moves from hitting the user this turn.
-Hits 2-5 times in one turn.
-Ensures that the user's next move will hit the target.
-Hits every turn for 2-3 turns, then confuses the user.
-Changes the weather to a sandstorm for five turns.
-Heals the user by half the damage inflicted.
-Prevents the user's HP from lowering below 1 this turn.
-Lowers the target's Attack by two levels.
-Power doubles every turn this move is used in succession after the first, resetting after five turns.
-Cannot lower the target's HP below 1.
-Raises the target's Attack by two levels and confuses the target.
-Heals the user by half its max HP.
-Has a $effect_chance% chance to paralyze the target.
-Power doubles every turn this move is used in succession after the first, maxing out after five turns.
-Has a $effect_chance% chance to raise the user's Defense by one level.
-Prevents the target from leaving battle.
-Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.
-Randomly uses one of the user's other three moves.  Only works if the user is sleeping.
-Cures the user and the user's ally of major status effects.
-Power increases with happiness, up to a maximum of 102.
-Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.
-Power increases as happiness decreases, up to a maximum of 102.
-Protects the user's field from major status ailments and confusion for five turns.
-Sets the user's and targets's HP to the average of their current HP.
-Has a $effect_chance% chance to burn the target.  Lets frozen Pok�mon thaw themselves.
-Power varies randomly from 10 to 150.
-Has a $effect_chance% chance to confuse the target.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to paralyze the target.
-Allows the trainer to switch out the user and pass effects along to its replacement.
-Forces the target to repeat its last used move every turn for 2 to 6 turns.
-If the target leaves battle this turn, user will hit the target with double power and then hit its replacement normally.
-Frees the user from binding moves, removes Leech Seed, and blows away Spikes.
-Lowers the target's Evasion by one level.
-Has a $effect_chance% chance to lower the target's Defense by one level.
-Has a $effect_chance% chance to raise the user's Attack by one level.
-Never misses.
-Heals the user by half its max HP.  Affected by weather.
-Heals the user by half its max HP.  Affected by weather.
-Heals the user by half its max HP.  Affected by weather.
-Power and type depend upon user's IVs.  Power can range from 30 to 70.
-Has an increased chance for a critical hit.
-Has chance to make the target flinch.
-Changes the weather to rain for five turns.
-Changes the weather to sunny for five turns.
-Has a $effect_chance% chance to lower the target's Defense by one level.
-Inflicts twice the damage the user received from the last special hit it took.
-Discards the user's stat changes and copies the target's.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to raise all of the user's stats by one level.
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-Hits the target two turns later.
-Has a $effect_chance% chance to lower the target's Defense by one level.
-Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.
-Hits once for every conscious Pok�mon the trainer has.
-Can only be used as the first move after the user enters battle.  Causes the target to flinch.
-Forced to use this move for several turns.  Pok�mon cannot fall asleep in that time.
-Stores energy up to three times for use with Spit Up and Swallow.
-Power is 100 times the amount of energy Stockpiled.
-Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.
-Has a $effect_chance% chance to burn the target.
-Changes the weather to a hailstorm for five turns.
-Prevents the target from using the same move twice in a row.
-Raises the target's Special Attack by two levels and confuses the target.
-Burns the target.
-Lowers the target's Attack and Special Attack by two levels.  User faints.
-Power doubles if user is burned, paralyzed, or poisoned.
-If the user takes damage before attacking, the attack is canceled.
-If the target is paralyzed, inflicts double damage and cures the paralysis.
-Redirects the target's single-target effects to the user for this turn.
-Uses a move which depends upon the terrain.
-Raises the user's Special Defense by one level.  User's Electric moves have doubled power next turn.
-For the next few turns, the target can only use damaging moves.
-Ally's next move inflicts half more damage.
-User and target swap items.
-Copies the target's ability.
-User will recover half its max HP at the end of the next turn.
-Randomly selects and uses one of the trainer's other Pok�mon's moves.
-Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn.
-Lowers the user's Attack and Defense by one level after inflicting damage.
-Reflects back the first effect move used on the user this turn.
-User recovers the item it last used up.
-Inflicts double damage if the user takes damage before attacking this turn.
-Destroys Reflect and Light Screen.
-Target sleeps at the end of the next turn.
-Target drops its held item.
-Lowers the target's HP to equal the user's.
-Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.
-User and target swap abilities.
-Prevents the target from using any moves that the user also knows.
-Cleanses the user of a burn, paralysis, or poison.
-When the user faints, the PP of the move that fainted it will be reduced to 0.
-Steals the target's move, if it's self-targeted.
-Has a $effect_chance% chance to inflict a status effect which depends upon the terrain.
-User dives underwater, dodging all attacks, and hits next turn.
-Hits 2-5 times in one turn.
-User's type changes to match the terrain.
-(((something new 321)))
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-Has a $effect_chance% chance to lower the target's Special Attack by one level.
-Lowers the target's Attack by two levels.
-Confuses the target.
-Has an increased chance for a critical hit and a $effect_chance% chance to burn the target.
-All damage from Electric moves is halved until the end of the battle.
-Power doubles every turn this move is used in succession after the first, resetting after five turns.
-Has a $effect_chance% chance to make the target flinch.
-Heals the user by half its max HP.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to badly poison the target.
-Has a $effect_chance% chance to lower the target's Defense by one level.
-User foregoes its next turn to recharge.
-User foregoes its next turn to recharge.
-Has a $effect_chance% chance to raise the user's Attack by one level.
-Has a $effect_chance% chance to make the target flinch.
-If there be weather, this move has doubled power and the weather's type.
-Cures the user and the user's ally of major status effects.
-Lowers the target's Special Defense by two levels.
-Has an increased chance for a critical hit.
-Lowers the user's Special Attack by two levels after inflicting damage.
-Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost.
-Has a $effect_chance% chance to lower the target's Speed by one level.
-Has a $effect_chance% chance to raise all of the user's stats by one level.
-Lowers the target's Special Defense by two levels.
-Puts the target to sleep.
-Lowers the target's Attack and Defense by one level.
-Raises the user's Defense and Special Defense by one level.
-Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.
-Has a $effect_chance% chance to confuse the target.
-Never misses.
-Has a $effect_chance% chance to make the target flinch.
-Inflicts regular damage and can hit Bounce and Fly users.
-Prevents the target from fleeing and inflicts damage for 2-5 turns.
-Causes a one-hit KO.
-Has a $effect_chance% chance to lower the target's Accuracy by one level.
-Hits 2-5 times in one turn.
-Never misses.
-Hits 2-5 times in one turn.
-Raises the user's Defense by two levels.
-Prevents the target from leaving battle.
-Raises the user's Attack by one level.
-Inflicts regular damage with no additional effect.
-User foregoes its next turn to recharge.
-Raises the user's Attack and Defense by one level.
-User bounces high into the air, dodging all attacks, and hits next turn.
-Has a $effect_chance% chance to lower the target's Speed by one level.
-Has an increased chance for a critical hit and a $effect_chance% chance to poison the target.
-Takes the target's item.
-User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to paralyze the target.
-Never misses.
-All damage from Fire moves is halved until the end of the battle.
-Raises the user's Special Attack and Special Defense by one level.
-Has an increased chance for a critical hit.
-Raises the user's Attack and Speed by one level.
-Hits 2-5 times in one turn.
-Never misses.
-Has a $effect_chance% chance to confuse the target.
-Hits the target two turns later.
-Lowers the user's Special Attack by two levels after inflicting damage.
-Heals the user by half its max HP.
-Disables moves and immunities that involve flying or levitating for five turns.
-Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it's Dark.
-If the target is asleep, has double power and wakes it up.
-Lowers user's Speed by one level.
-Power raises when the user has lower Speed, up to a maximum of 150.
-User faints.  Its replacement has its HP fully restored and any major status effect removed.
-Has double power against Pok�mon that have less than half their max HP remaining.
-Power and type depend on the held berry.
-Only works if the target uses Protect or Detect on this turn.
-If target has a berry, inflicts double damage and uses the berry.
-For three turns, friendly Pok�mon have doubled Speed.
-Raises one of a friendly Pok�mon's stats at random by two levels.
-Strikes back at the last Pok�mon to hit the user this turn with double the damage.
-User must switch out after attacking.
-Lowers the user's Defense and Special Defense by one level after inflicting damage.
-Power is doubled if the target has already moved this turn.
-Power is doubled if the target has already received damage this turn.
-Target cannot use held items.
-Throws held item at the target; power depends on the item.
-Transfers the user's major status effect to the target.
-Power increases when this move has less PP, up to a maximum of 200.
-Prevents target from restoring its HP for five turns.
-Power increases against targets with more HP remaining, up to a maximum of 110 power.
-User swaps Attack and Defense.
-Nullifies target's ability until it leaves battle.
-Prevents the target from scoring critical hits for five turns.
-Uses the target's move against it before it attacks, with power increased by half.
-Uses the target's last used move.
-User swaps Attack and Special Attack changes with the target.
-User swaps Defense and Special Defense changes with the target.
-Power increases against targets with more raised stats, up to a maximum of 200.
-Can only be used after all of the user's other moves have been used.
-Changes the target's ability to Insomnia.
-Only works if the target is about to use a damaging move.
-Scatters poisoned spikes, poisoning opposing Pok�mon that switch in.
-User and target swap stat changes.
-Restores 1/16 of the user's max HP each turn.
-User is immune to Ground moves and effects for five turns.
-User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to burn the target.
-Has a $effect_chance% chance to paralyze the target.
-Never misses.
-Raises the user's Speed by two levels.
-Has a $effect_chance% chance to poison the target.
-Has a $effect_chance% chance to make the target flinch.
-Has an increased chance for a critical hit.
-Inflicts regular damage with no additional effect.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to make the target flinch.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to make the target flinch.
-Inflicts regular damage with no additional effect.
-Heals the user by half the damage inflicted.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-User receives 1/3 the damage inflicted in recoil.
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-User and target swap items.
-User foregoes its next turn to recharge.
-Raises the user's Special Attack by two levels.
-Inflicts regular damage with no additional effect.
-Inflicts double damage if the user takes damage before attacking this turn.
-Inflicts regular damage with no additional effect.
-Has an increased chance for a critical hit.
-Has a $effect_chance% chance to paralyze the target and a $effect_chance% chance to make the target flinch.
-Has a $effect_chance% chance to freeze the target and a $effect_chance% chance to make the target flinch.
-Has a $effect_chance% chance to burn the target and a $effect_chance% chance to make the target flinch.
-Inflicts regular damage with no additional effect.
-Has a $effect_chance% chance to lower the target's Accuracy by one level.
-Has an increased chance for a critical hit.
-Has a $effect_chance% chance to make the target flinch.
-Has a $effect_chance% chance to lower the target's Accuracy by one level.
-Has a $effect_chance% chance to lower the target's Special Defense by one level.
-Has a $effect_chance% chance to confuse the target.
-Lowers the target's evasion by one level.  Removes field effects from the enemy field.
-For five turns, slower Pok�mon will act before faster Pok�mon.
-Lowers the user's Special Attack by two levels after inflicting damage.
-Has a $effect_chance% chance to paralyze the target.
-Has a $effect_chance% chance to burn the target.
-Lowers the user's Special Attack by two levels after inflicting damage.
-Inflicts regular damage with no additional effect.
-User foregoes its next turn to recharge.
-Has an increased chance for a critical hit and a $effect_chance% chance to poison the target.
-Has a $effect_chance% chance to poison the target.
-Has a $effect_chance% chance to make the target flinch.
-Never misses.
-Has an increased chance for a critical hit.
-Lowers the target's Special Attack by two levels if it's the opposite gender.
-Causes damage when opposing Pok�mon switch in.
-Inflicts more damage to heavier targets, with a maximum of 120 power.
-Has a higher chance to confuse the target when the recorded sound is louder.
-If the user is holding a plate, the damage inflicted will match it.
-If target has a berry, inflicts double damage and uses the berry.
-Has a $effect_chance% chance to raise the user's Special Attack by one level.
-User receives 1/3 the damage inflicted in recoil.
-Inflicts regular damage with no additional effect.
-Has an increased chance for a critical hit.
-Raises the user's Defense and Special Defense by one level.
-Heals the user by half its max HP.
-User receives 1/2 the damage inflicted in recoil.
-Hits twice in one turn.
-User foregoes its next turn to recharge.
-Has an increased chance for a critical hit.
-User faints, and its replacement is fully healed.
-Power increases against targets with more HP remaining, up to a maximum of 110 power.
-Prevents the target from fleeing and inflicts damage for 2-5 turns.
-Puts the target to sleep.
-Has a $effect_chance% chance to lower the target's Special Defense by two levels.
-Has a $effect_chance% chance to raise all of the user's stats by one level.
-User vanishes, dodging all attacks, and hits next turn.  Works against Protect and Detect.
-(((something new 277)))
-(((something new 278)))
-(((something new 279)))
-(((something new 280)))
-(((something new 281)))
-(((something new 282)))
-(((something new 283)))
-(((something new 284)))
-Redirects the target's single-target effects to the user for this turn.
-(((something new 285)))
-(((something new 286)))
-(((something new 287)))
-(((something new 288)))
-(((something new 289)))
-Has a $effect_chance% chance to poison the target.
-(((something new 290)))
-(((something new 291)))
-(((something new 292)))
-(((something new 293)))
-(((something new 294)))
-(((something new 295)))
-(((something new 322)))
-Lowers the target's Speed by one level.
-(((something new 296)))
-(((something new 297)))
-(((something new 298)))
-(((something new 299)))
-(((something new 300)))
-(((something new 301)))
-(((something new 302)))
-(((something new 303)))
-(((something new 304)))
-(((something new 305)))
-(((something new 306)))
-(((something new 307)))
-Has a $effect_chance% chance to burn the target.
-(((something new 308)))
-(((something new 309)))
-(((something new 310)))
-(((something new 311)))
-(((something new 312)))
-(((something new 313)))
-(((something new 314)))
-(((something new 315)))
-(((something new 317)))
-(((something new 318)))
-(((something new 319)))
-(((something new 320)))
-(((something new 323)))
-Has a $effect_chance% chance to burn the target.
-(((something new 324)))
-(((something new 325)))
-(((something new 326)))
-User must switch out after attacking.
-Has a $effect_chance% chance to lower the target's Special Attack by one level.
-Has a $effect_chance% chance to lower the target's Speed by one level.
-(((something new 288)))
-(((something new 313)))
-(((something new 327)))
-Lowers the target's Speed by one level.
-User receives 1/4 the damage it inflicts in recoil.
-Has an increased chance for a critical hit.
-Hits twice in one turn.
-Has a $effect_chance% chance to make the target flinch.
-Heals the user by half the damage inflicted.
-(((something new 303)))
-Has a $effect_chance% chance to lower the target's Defense by one level.
-(((something new 291)))
-Has a $effect_chance% chance to lower the target's Accuracy by one level.
-Has a $effect_chance% chance to make the target flinch.
-(((something new 328)))
-Has a $effect_chance% chance to lower the target's Accuracy by one level.
-(((something new 282)))
-Hits 2-5 times in one turn.
-(((something new 337)))
-User receives 1/4 the damage it inflicts in recoil.
-Hits twice in one turn.
-Has a $effect_chance% chance to burn the target.
-If the user is holding a plate, the damage inflicted will match it.
-(((something new 329)))
-(((something new 282)))
-(((something new 330)))
-Has a $effect_chance% chance to paralyze the target.
-Has a $effect_chance% chance to burn the target.
-Has a $effect_chance% chance to raise the user's Special Attack by one level.
-(((something new 331)))
-(((something new 332)))
-Has a $effect_chance% chance to lower the target's Special Attack by one level.
-Has a $effect_chance% chance to make the target flinch.
-(((something new 334)))
-(((something new 335)))
-(((something new 336)))
+(No Description)
+Pounds the foe with forelegs or tail for 2-3 turns.
+A chopping attack with a high critical-hit ratio.
+Repeatedly slaps the foe 2 times.
+An extremely quick punch that always strikes first.
+A strong punch that absorbs half the damage inflicted.
+Throws coins at the foe with incredible power.
+A fiery punch that may burn the foe.
+An icy punch that may freeze the foe.
+An electrified punch that may paralyze the foe.
+Scratches the foe with sharp claws. May cause a burn.
+Grips the foe with powerful pincers. May cause paralysis.
+A powerful pincer attack that may cause paralysis.
+Creates a fierce whirlwind that may cause a burn.
+A fighting dance that sharply raises ATTACK.
+Cuts the foe. Has a high critical-hit ratio.
+Strikes the foe with a gust of wind. May lower SPECIAL.
+Attacks with wings spread wide. Has a high critical-hit ratio.
+Blows away the foe with a strong wind. May confuse the foe.
+Flies up on the first turn, then strikes the next turn.
+Binds and squeezes the foe for 2 to 5 turns.
+Slams the foe with high power. May cause paralysis.
+Strikes the foe with whiplike vines. May cause paralysis.
+Stomps the enemy with a big foot. May cause flinching.
+A double-kicking attack that strikes the foe twice.
+A very powerful kick that absorbs half the damage inflicted.
+A strong jumping kick that also hurts the user.
+A kick delivered from a rapid spin. May cause flinching.
+Reduces the foe's accuracy by hurling sand in its face.
+A ramming attack that may cause flinching.
+Jabs the foe with sharp horns 2 to 5 times.
+Jabs the foe 2 to 5 times with sharp horns, etc.
+A one-hit KO attack that uses a horn like a drill.
+Charges the foe with a tackle that also hurts the user.
+A full-body slam that may cause paralysis.
+Wraps and squeezes the foe 2 to 5 times with vines, etc.
+A reckless charge attack that also hurts the user.
+A rampage of 2 to 3 turns that confuses the user.
+A life-risking tackle that also hurts the user.
+Whips the tail to severely damage the foe.
+A toxic attack with barbs, etc. that hits 2 to 5 times.
+Stingers on the forelegs jab the foe twice. May poison.
+Sharp pins are fired to strike 2 to 5 times.
+Frightens the foe with a leer to lower DEFENSE.
+Bites with vicious fangs. May cause flinching.
+Growls cutely to reduce the foe's ATTACK.
+Roars loudly at the foe. May lower DEFENSE.
+A soothing song lulls the foe into a deep slumber.
+Emits bizarre sound waves. May cause flinching.
+Inflicts severe damage but makes the user faint.
+Psychically disables one of the foe's moves.
+Sprays a hide-melting acid. May lower DEFENSE.
+A weak fire attack that may lower SPECIAL.
+A powerful fire attack that may inflict a burn.
+Creates a mist that is guaranteed to strike first.
+Squirts water to attack the foe. May lower SPECIAL.
+Blasts water at high power to strike the foe.
+Creates a huge wave that will always hit the foe.
+Blasts the foe with an icy beam that may freeze it.
+Hits the foe with an icy storm that may freeze it.
+Charges for a turn, then fires a peculiar, powerful ray.
+Poweful, but leaves the user immobile the next turn.
+Fires a rainbow-colored beam that may lower SPECIAL.
+Powerful, but leaves the user immobile the next turn.
+Attacks the foe with a jabbing beak, etc. Strikes first.
+A corkscrewing attack with the beak acting as a drill.
+A reckless body slam that also hurts the user.
+A weak sweeping kick that may cause flinching.
+Retaliates any physical hit with double the power.
+Inflicts damage identical to the user's level.
+Slams the foe for 2-3 turns, but confuses the user.
+An attack that absorbs half the damage inflicted.
+An attack that absorbs half the damage inflicted.
+Plants a seed on the foe to steal HP on every turn.
+Forces the body to grow and heightens SPECIAL.
+Cuts the enemy with leaves. High critical-hit ratio.
+Absorbs light in one turn, then attacks next turn.
+Scatters a toxic powder that damages the foe.
+Scatters a powder that may paralyze the foe.
+Scatters a powder that may cause the foe to sleep.
+A rampage of 2 to 3 turns that confuses the user.
+Binds the foe with string. May reduce SPEED.
+Hits the target with shock waves of pure rage.
+Traps the foe in a ring of fire for 2 to 5 turns.
+An electrical attack that may lower SPECIAL.
+A strong electrical attack that may paralyze the foe.
+A weak jolt of electricity that paralyzes the foe.
+A lightning attack that may cause paralysis.
+Throws small rocks intensively to strike the foe.
+A powerful quake, but has no effect on flying foes.
+A one-hit KO move that drops the foe in a fissure.
+Digs underground the first turn and strikes next turn.
+Poisons the foe with an intensifying toxin.
+A psychic attack that may cause confusion.
+A powerful psychic attack that may lower SPECIAL.
+A hypnotizing move that may induce sleep.
+Meditates in a peaceful fashion to sharply raise ATTACK.
+Relaxes the body to sharply boost SPEED.
+An extremely fast attack that always strikes first.
+Releases a powerful attack filled with inner rage.
+Teleports on the first turn and strikes on the second.
+Inflicts damage identical to the user's level.
+Copies a move used by the foe during one battle.
+Emits a screech to sharply reduce the foe's DEFENSE.
+Creates illusory copies to cause confusion.
+Recovers up to half the user's maximum HP.
+Stiffens the body's muscles to raise ATTACK.
+Minimizes the user's size to raise DEFENSE.
+Releases a cloud of toxic, ink, etc. May cause confusion.
+A sinister ray that confuses the foe.
+Withdraws the body into its hard shell to raise SPECIAL.
+Curls up to cloak weak spots. Recovers 50% of user's max HP.
+Creates a barrier that sharply raises DEFENSE.
+Creates a wall of light that lowers SPECIAL damage.
+Creates a black haze that eliminates all stat changes.
+Creates a wall of light that weakens physical attacks.
+Focuses power for one turn, then strikes with extreme force.
+Endures attack for 2 turns to retaliate double.
+Waggles a finger to use any POKEMON move at random.
+Counters the foe's attack with the same move.
+Inflicts severe damage but makes the user faint.
+An egg is forcibly hurled at the foe. May cause a burn.
+Licks with a long tongue to injure. May also paralyze.
+A severe exhaust-gas attack that also makes the user faint.
+Sludge is hurled to inflict damage. May also poison.
+Clubs the foe with a bone. Always moves first.
+A fiery blast that scorches all. May cause a burn.
+Climbs a waterfall for a turn, then crashes down on the foe.
+Traps and squeezes the foe for 2 to 5 turns.
+Sprays star-shaped rays that never miss.
+Tucks in the head, then attacks on the next turn.
+Launches sharp spikes that strike 2 to 5 times.
+Constricts the foe to inflict paralysis.
+Forgets about something and sharply raises SPECIAL.
+Distracts the foe and paralyses it.
+Recovers up to half the user's maximum HP.
+Jumps into the air, avoiding damage, then hits heavily. 
+Intimidates and frightens the foe into paralysis.
+Takes one half the damage inflicted on a sleeping foe.
+Envelops the foe in a toxic gas that one-hit KO's it.
+A powerful attack, but makes the user faint.
+An attack that steals half the damage inflicted.
+Demands a kiss with a scary face that induces sleep.
+Searches out weak spots, then strikes the next turn.
+Alters the user's cells to become a copy of the foe.
+An attack using bubbles. May cause flinching.
+A rhythmic punch that may confuse the foe.
+Scatters a cloud of spores that always induce sleep.
+Looses a powerful blast of light that cuts accuracy.
+Uses a psychic wave to lower the foe's ATTACK.
+Hits for 2-3 turns and leaves the user confused.
+Liquifies the user's body to sharply raise DEFENSE.
+Hammers with a pincer. Has a high critical-hit ratio.
+Inflicts severe damage but makes the user faint.
+Rakes the foe with sharp claws, etc., 2 to 5 times.
+Throws a bone boomerang that strikes twice.
+The user sleeps for 2 turns, restoring HP and status.
+Large boulders are hurled at the foe.
+Attacks with sharp fangs. May cause flinching.
+Reduces the polygon count and sharply raises ATTACK.
+Switches the user's elemental type to that of the target.
+Fires three types of beams that steal HP every turn.
+Attacks with sharp fangs and cuts half the foe's HP.
+Slashes with claws, etc. Has a high critical-hit ratio.
+Creates a decoy using 1/4 of the user's maximum HP.
+Used only if all PP are gone. Also hurts the user a little.
+Copies the foe's last move permanently.
+Kicks the foe 3 times in a row with rising intensity.
+While attacking, it may steal the foe's held item.
+Ensnares the foe to stop it from fleeing or switching.
+Senses the foe's action to ensure the next move's hit.
+Inflicts 1/4 damage on a sleeping foe every turn.
+A fiery charge attack that may inflict a burn.
+A loud attack that can be used only while asleep.
+A move that functions differently for GHOSTS.
+Inflicts more damage when the user's HP is down.
+Makes the user resistant to the last attack's type.
+Launches a vacuumed blast. High critical-hit ratio.
+Spores cling to the foe, sharply reducing SPEED.
+Inflicts more damage when the user's HP is down.
+Spitefully cuts the PP of the foe's last move.
+Blasts the foe with a snowy gust. May cause freezing.
+Evades attack, but may fail if used in succession.
+A punch is thrown at wicked speed to strike first.
+Frightens with a scary face to sharply reduce SPEED.
+Draws the foe close, then strikes without fail.
+Demands a kiss with a cute look. May cause confusion.
+Maximizes ATTACK while sacrificing HP.
+Sludge is hurled to inflict damage. May also poison.
+Hurls mud in the foe's face to reduce its accuracy.
+Fires a lump of ink to damage and cut accuracy.
+Sets spikes that hurt a foe switching out.
+Powerful and sure to cause paralysis, but inaccurate.
+Negates the foe's efforts to heighten evasiveness.
+If the user faints, the foe is also made to faint.
+Any POKEMON hearing this song faints in 3 turns.
+A chilling attack that lowers the foe's SPEED.
+Evades attack, but may fail if used in succession.
+Strikes the foe with a bone in hand 2 to 5 times.
+Locks on to the foe to ensure the next move hits.
+A rampage of 2 to 3 turns that confuses the user.
+Causes a sandstorm that rages for several turns.
+An attack that steals half the damage inflicted.
+Endures any attack for 1 turn, leaving at least 1HP.
+Charms the foe and sharply reduces its ATTACK.
+An attack lasting 5 turns with rising intensity.
+An attack that leaves the foe with at least 1 HP.
+Confuses the foe, but also sharply raises ATTACK.
+Recovers up to half the user's maximum HP.
+An electrified tackle that may paralyze the foe.
+An attack that intensifies on each successive hit.
+Strikes the foe with hard wings spread wide.
+Fixes the foe with a mean look that prevents escape.
+Makes the opposite gender less likely to attack.
+Uses an own move randomly while asleep.
+Chimes soothingly to heal all status abnormalities.
+An attack that increases in power with friendship.
+A gift in the form of a bomb. May restore HP.
+An attack that is stronger if the TRAINER is disliked.
+A mystical force prevents all status problems.
+Adds the user and foe's HP, then shares them equally.
+A mystical fire attack that may inflict a burn.
+A ground-shaking attack of random intensity.
+Powerful and sure to cause confusion, but inaccurate.
+A brutal ramming attack using out-thrust horns.
+Strikes the foe with an incredible blast of breath.
+Switches out the user while keeping effects in play.
+Makes the foe repeat its last move over 2 to 6 turns.
+Inflicts bad damage if used on a foe switching out.
+Spins the body at high speed to strike the foe.
+Allures the foe to reduce evasiveness.
+Attacks with a rock-hard tail. May lower DEFENSE.
+A claw attack that may raise the user's ATTACK.
+Makes the user's move last, but it never misses.
+Restores HP. The amount varies with the weather.
+Restores HP. The amount varies with the weather.
+Restores HP. The amount varies with the weather.
+The effectiveness varies with the user.
+A double-chopping attack. High critical-hit ratio.
+Whips up a vicious twister to tear at the foe.
+Boosts the power of WATER- type moves for 5 turns.
+Boosts the power of FIRE- type moves for 5 turns.
+Crunches with sharp fangs. May lower DEF.
+Counters the foe's special attack at double the power.
+Copies the foe's effect(s) and gives to the user.
+An extremely fast and powerful attack.
+An attack that may raise all stats.
+Hurls a black blob that may lower the foe's SP. DEF.
+Heightens inner power to strike 2 turns later.
+A rock-crushing attack that may lower DEFENSE.
+Traps and hurts the foe in a whirlpool for 2 to 5 turns.
+Summons party POK�MON to join in the attack.
+A 1st-turn, 1st-strike move that causes flinching.
+Causes an uproar for 2 to 5 turns and prevents sleep.
+Charges up power for up to 3 turns.
+Releases stockpiled power (the more the better).
+Absorbs stockpiled power and restores HP.
+Exhales a hot breath on the foe. May inflict a burn.
+Summons a hailstorm that strikes every turn.
+Torments the foe and stops successive use of a move.
+Confuses the foe, but raises its SP. ATK.
+Inflicts a burn on the foe with intense fire.
+The user faints and lowers the foe's abilities.
+Boosts ATTACK when burned, paralyzed, or poisoned.
+A powerful loyalty attack. The user flinches if hit.
+Powerful against paralyzed foes, but also heals them.
+Draws attention to make foes attack only the user.
+The type of attack varies depending on the location.
+Charges power to boost the electric move used next.
+Taunts the foe into only using attack moves.
+Boosts the power of the recipient's moves.
+Tricks the foe into trading held items.
+Mimics the target and copies its special ability.
+A wish that restores HP. It takes time to work.
+Attacks randomly with one of the partner's moves.
+Lays roots that restore HP. The user can't switch out.
+Boosts strength sharply, but lowers abilities.
+Reflects special effects back to the attacker.
+Recycles a used item for one more use.
+An attack that gains power if injured by the foe.
+Destroys barriers such as REFLECT and causes damage.
+Lulls the foe into yawning, then sleeping next turn.
+Knocks down the foe's held item to prevent its use.
+Gains power if the user's HP is lower than the foe's HP.
+The higher the user's HP, the more damage caused.
+The user swaps special abilities with the target.
+Prevents foes from using moves known by the user.
+Heals poisoning, paralysis, or a burn.
+If the user faints, deletes the PP of the final move.
+Steals the effects of the move the foe uses next.
+An attack with effects that vary by location.
+Dives underwater the first turn and strikes next turn.
+Straight-arm punches that strike the foe 2 to 5 times.
+Alters the POK�MON's type depending on the location.
+Flashes a light that sharply raises SP. ATK.
+Attacks with a burst of light. May lower SP. DEF.
+Attacks with a flurry of down. May lower SP. ATK.
+Envelops the foe with down to sharply reduce ATTACK.
+Confuses all POKEMON on the scene.
+A kick with a high critical- hit ratio. May cause a burn.
+Covers the user in mud to raise electrical resistance.
+A 5-turn attack that gains power on successive hits.
+Attacks with thorny arms. May cause flinching.
+Slacks off and restores half the maximum HP.
+A loud attack that uses sound waves to injure.
+A sharp-fanged attack. May badly poison the foe.
+Tears at the foe with sharp claws. May lower DEFENSE.
+Powerful, but leaves the user immobile the next turn.
+Powerful, but leaves the user immobile the next turn.
+Fires a meteor-like punch. May raise ATTACK.
+An attack that may shock the foe into flinching.
+The move's type and power change with the weather.
+Heals all status problems with a soothing scent.
+Feigns crying to sharply lower the foe's SP. DEF.
+Hacks with razorlike wind. High critical-hit ratio.
+Allows a full-power attack, but sharply lowers SP. ATK.
+Negates the foe's efforts to heighten evasiveness.
+Stops the foe from moving with rocks and cuts SPEED.
+A powdery attack that may raise abilities.
+Emits a horrible screech that sharply lowers SP. DEF.
+Lulls the foe into sleep with a pleasant melody.
+Makes the foe laugh to lower ATTACK and DEFENSE.
+Raises DEFENSE and SP. DEF with a mystic power.
+Inflicts more damage if the user's HP is high.
+A strange beam attack that may confuse the foe.
+An unavoidable punch that is thrown from shadows.
+Attacks with a peculiar power. May cause flinching.
+An uppercut thrown as if leaping into the sky.
+Traps and hurts the foe in quicksand for 2 to 5 turns.
+A chilling attack that causes fainting if it hits.
+Attacks with muddy water. May lower accuracy.
+Shoots 2 to 5 seeds in a row to strike the foe.
+An extremely speedy and unavoidable attack.
+Attacks the foe by firing 2 to 5 icicles in a row.
+Hardens the body's surface to sharply raise DEFENSE.
+Blocks the foe's way to prevent escape.
+Howls to raise the spirit and boosts ATTACK.
+Slashes the foe with sharp claws.
+Powerful, but leaves the user immobile the next turn.
+Bulks up the body to boost both ATTACK and DEFENSE.
+Bounces up, then down the next turn. May paralyze.
+Hurls mud at the foe and reduces SPEED.
+Has a high critical-hit ratio. May also poison.
+Cutely begs to obtain an item held by the foe.
+A life-risking tackle that slightly hurts the user.
+Attacks with a strange leaf that cannot be evaded.
+The user becomes soaked to raise resistance to fire.
+Raises SP. ATK and SP. DEF by focusing the mind.
+Slashes with a sharp leaf. High critical-hit ratio.
+A mystical dance that ups ATTACK and SPEED.
+Hurls boulders at the foe 2 to 5 times in a row.
+A fast and unavoidable electric attack.
+Attacks with ultrasonic waves. May confuse the foe
+Summons strong sunlight to attack 2 turns later.
+Allows a full-power attack, but sharply lowers SP. ATK.
+Restores half of max HP
+Disables moves that fly or levitate in 5 turns
+Removes dark type's psychic immunity and resets foe's evasiveness
+Power doubles if foe is asleep, cures sleep status
+Lowers users SPEED one stage
+Power depends on foe's SPEED
+If user faints, recovers HP and removes status effects of next Pok�mon
+Power doubles if foe's HP is less than half
+Power and type of move depends on the held berry
+Only works when foe uses Protect or Detect
+Power doubles if foe is holding a berry
+User's team raises SPEED for 5 turns
+Randomly raises user's one stat two stages
+Returns double damage done by foe
+User switches out automatically after attack
+Lowers user's DEFENSE and SP.DEF
+Power doubles if user receives damage first
+Power doubles if foe already receives damage that turn
+Foe is unable to use held items
+Hurls out held item, power depends on held item
+Shifts status effect to target
+Power increases when PP drops
+Foe is unable to restore HP in 5 turns
+Power depends on foe's remaining HP
+Swaps user's own ATTACK and DEFENSE
+Cancels effect of foe's ability
+Foe cannot have critical hits for 5 turns
+Strikes first with foe's attack at 1.5 power
+Copies foe's last move
+Swaps ATTACK and SP.ATT with target
+Swarps DEFENSE and SP.DEF with target
+Power depends on foe's stat
+Only usable when all other attacks have been used
+Changes the ability of foe to insomnia.
+Always strikes first, but fails if foe is not using attacking move
+Causes damage when opponent switches Pok�mon
+Swaps altered stats with foe
+Restores HP every turn
+Changes own ability to levitate
+User takes recoil damage
+May induce paralysis
+Cannot miss
+Raises users SPEED two stages
+May poison foe
+May cause foe to flinch
+High critical hit ratio
+No Added Effect
+No Added Effect
+May cause opponent to flinch
+No Added Effect.
+May lower opponent's SP.DEF one stage
+No Added Effect
+May cause foe to flinch
+No Added Effect
+User recovers half the damage inflicted
+Always strikes first
+May lower foe's SP.DEF one stage
+May lower foe's SP.DEF one stage
+User takes recoil damage
+May lower foe's SP.DEF one stage
+Exchanges held item with foe
+User cannot attack next turn
+Raises SP.ATT two stages
+Always strikes first
+Power doubles if user receives damage first
+Always strikes first
+High critical hit ratio
+Has a chance of paralyzing and flinching the foe
+Has a chance of freezing and flinching the foe
+Has a chance of burning and flinching the foe
+Always strikes first
+May lower foe's accuracy one stage
+high critical hit ratio
+May cause foe to flinch.
+May lower opponent's accuracy one stage
+May lower foe's SP.ATT one stage
+May induce confusion
+Lowers foe's evasiveness
+Slower Pok�mon attacks first in 5 turns
+Lowers users SP.ATT two stages
+May induce paralysis
+May induce burn
+Lowers users SP.ATT two stages
+No Added Effect
+User cannot attack next turn
+High chance of critical hit, may poison foe
+May poison foe
+May cause opponent to flinch
+Cannot miss
+High critical hit ratio
+Lowers opposite gender foe's SP.ATT two stages
+Causes damage when foe switches Pok�mon
+Power increases if foe is heavy
+Confuses foe
+Type changes depending on plate held
+Receives effect from foe's held berry
+High chance of raising user's SP.ATT one stage
+User takes recoil damage.
+Always strikes first
+High critical hit ratio
+Raises user's DEFENSE and SP.DEF one stage
+Recovers half of max HP
+User takes recoil damage
+Strikes twice
+User is unable to attack the next turn
+High critical hit ratio
+User Faints. Completely Heals Next Released Pok�mon
+Power depends on foe's remaining HP
+Traps foe
+Induces sleep to both opponents
+Lowers foe's SP.DEF
+May raise all user's stats one stage
+Disappears the first turn and attacks the second, foe cannot protect
+Raises Atk and Acc 1 stage.
+Protects your team from an attack that would hit all of your Pokemon. Willfail if used in succession.
+Averages the user's and target's Def and SpDef.
+Averages the user's and target's Atk and SpAtk.
+All Def and SpD swapped for 5 turns.
+Calculate's damage with the target's Def stat.
+Doubles power if Target is poisoned.
+Sharply raises Speed.
+Draws the opponent's attacks at yourself.
+Makes Target easier to hit for 3 turns.
+Negates all held items for 5 turns.
+Makes Flying opponents succeptible to Ground moves. (100%)
+Forces the target to switch.
+Hits all targets.
+May poison opponent. (10%)
+Raises SpA, SpD, and Speed by 1 stage.
+The heavier the user is, the more damage it deals.
+Deals more damage if Target is the same type as User.
+Has a higher Base Power the higher your speed is compared to the target.
+Turns the target into the Water type.
+May raise the user's Spe.
+Raises the user's Atk, Def, and Acc.
+Decreases opponent's Speed by 1 stage.
+Sharply lowers Special Defense.
+The higher the Target's attack stat, the more damage it deals.
+Makes the target's Ability become Simple.
+Makes Target's ability the same as User's.
+Makes the target move immediately after the user.
+Raises Base Power the more Pokemon you have with the attack.
+Deals more damage if used every turn.
+Target's stat changes doesn't affect this move.
+Resets all stat changes.
+The more the User's stats are raised, the more damage this attack deals.
+Protects your team from priority moves. Will fail if used in succession.
+Switch position with an Ally.
+May burn opponent. (30%)
+Raises Atk, SpAtk, and Spe but lowers Def and SpDef.
+Recovers 50% of an ally's HP.
+Doubles in power if the target has a status ailment.
+Picks up the target on the first turn and drops them on the second.
+Increases the user's Atk 1 stage and Spe 2 stages.
+Forces the target to switch.
+Removes the target's Berry.
+Forces Target to move last
+Allows the user to hit the opposite opponent in a Triple Battle.
+Changes target's ability the same as the user's ability.
+Deals more damage if teammate was KO'd last turn.
+KOs the user and deals damage to the opponent equal to the HP it lost.
+Gives user's item to Target if it has to item.
+May burn opponent. (100%)
+If used with Fire Pledge, creates rainbow that may cause Confusion
+If used with Grass Pledge, creates burning field that causes damage every turn
+If used with Water Pledge, creates swamp that lowers Speed of all targets.
+Switch to another Pokémon
+May decrease opponent's Special Attack by 1 stage.
+May decrease opponent's Speed by 1 stage.
+Critical Hit (100%)
+Forces the target to switch.
+Raises the user's Atk and SpAtk.
+Decreases opponent's Speed by 1 stage.
+Returns to user 1/4 of HP lost by opponent due to this attack (recoil).
+Good chance for a critical hit.
+Strikes twice.
+May cause opponent to flinch.
+If this attack is successful, user gains half of HP lost by opponent due to this attack.
+Target's stat changes doesn't affect this move.
+May decrease opponent's Defense by 1 stage.
+The heavier the User is, the more damage it deals.
+May decrease opponent's Accuracy by 1 stage.
+May cause opponent to flinch. Power is doubled if Minimize is in effect for opponent.
+Sharply raises Defense.
+May decrease opponent's Accuracy by 1 stage.
+Deals damage based on the target's Def.
+Multi-hit attack. Attacks two to five times in a row. 37.5% for 2 or 3 times; 12.5% for 4 or 5 times.
+Increases Accuracy during Weather. (30%)
+Returns to user 1/4 of HP lost by opponent due to this attack (recoil).
+Strikes twice.
+May burn opponent. (30%)
+If user is holding a Plate, this attack's type depends on the Cassette held.
+May put Target to sleep (10%)
+Causes physical damage.
+Sharply lower target's speed.
+May paralyze opponent. (20%)
+May burn opponent. (20%)
+May increase user's Special Attack by 1 stage.
+May Paralyze the opponent. (30%)
+May Burn the opponent. (30%)
+May decrease opponent's Special Attack by 1 stage.
+May cause opponent to flinch.
+Deals damage to allies on either side of the user.
+Increases if used after Cross Thunder.
+Increases if used after Cross Fire.
+.
