@@ -99,7 +99,7 @@
 98 #Quick Attack
 99 #rage
 100 13-4_16*2_239*2_327_87_542_479#Teleport - if failure, change 13-4 to 13-3
-101 91#Night Shade
+101 #Night Shade
 102 81#Mimic
 103 #Screech
 104 #Double Team
